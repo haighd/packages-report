@@ -4,6 +4,8 @@
 #' ---
 ## deja vu from earlier!
 
+library(tidyverse)
+
 ## create a data frame of your installed packages
 ## hint: installed.packages() is the function you need
 
